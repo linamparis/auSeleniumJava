@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-14T21:48:48" hostname="Victors-MacBook-Pro.local" time="1.815">
+  <properties/>
+  <testcase name="manageDriver()" classname="Selenium" time="1.815"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
