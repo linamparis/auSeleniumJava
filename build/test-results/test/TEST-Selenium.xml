@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Selenium" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-14T21:48:48" hostname="Victors-MacBook-Pro.local" time="1.815">
+<testsuite name="Selenium" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-29T01:13:37" hostname="Victors-MacBook-Pro.local" time="1.365">
   <properties/>
-  <testcase name="manageDriver()" classname="Selenium" time="1.815"/>
+  <testcase name="openWithDimantions()" classname="Selenium" time="1.365"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
+  <system-err><![CDATA[Aug 28, 2024 8:13:39 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 128, returning the closest version; found: 127; Please update to a Selenium version that supports CDP version 128
+]]></system-err>
 </testsuite>
